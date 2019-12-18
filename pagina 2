@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Berco de Bateria Moeda </title>
+	</head>
+<body>
+
+	<img id="Dados" src="imagens/Berco1.jpeg">
+		<img id="Dados" src="imagens/Berco2.jpeg">
+		<img id="Dados" src="imagens/Berco3.jpeg">
+	
+</body>
